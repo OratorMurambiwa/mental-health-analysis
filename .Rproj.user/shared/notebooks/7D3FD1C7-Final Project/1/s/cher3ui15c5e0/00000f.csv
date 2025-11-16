@@ -1,0 +1,4 @@
+"0","boxplot(charges ~ smoker, data=insurance,"
+"0","        main=""Charges by Smoking Status"","
+"0","        xlab=""Smoker (0 = No, 1 = Yes)"")"
+"0",""

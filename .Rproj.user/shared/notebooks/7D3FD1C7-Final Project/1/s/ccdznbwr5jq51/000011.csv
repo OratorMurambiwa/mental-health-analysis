@@ -1,0 +1,1 @@
+"0","hist(insurance$bmi, main=""BMI Distribution"", col=""lightgreen"")"

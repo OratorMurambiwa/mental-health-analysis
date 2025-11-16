@@ -1,0 +1,2 @@
+"0","plot(insurance$bmi, insurance$charges,"
+"0","     main=""BMI vs Charges"", xlab=""BMI"", ylab=""Charges"")"

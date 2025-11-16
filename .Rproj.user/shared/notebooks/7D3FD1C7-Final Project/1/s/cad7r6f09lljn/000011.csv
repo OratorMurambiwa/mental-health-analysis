@@ -1,0 +1,4 @@
+"0",""
+"0","plot(insurance$age, insurance$charges,"
+"0","     main=""Age vs Charges"", xlab=""Age"", ylab=""Charges"")"
+"0",""

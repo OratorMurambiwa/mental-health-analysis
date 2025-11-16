@@ -1,0 +1,4 @@
+"0","plot(model$residuals,"
+"0","     main=""Residual Plot"","
+"0","     xlab=""Index"","
+"0","     ylab=""Residuals"")"

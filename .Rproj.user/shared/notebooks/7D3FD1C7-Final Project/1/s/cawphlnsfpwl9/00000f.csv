@@ -1,0 +1,2 @@
+"0","insurance <- read.csv(""insurance.csv"")"
+"0","head(insurance)"

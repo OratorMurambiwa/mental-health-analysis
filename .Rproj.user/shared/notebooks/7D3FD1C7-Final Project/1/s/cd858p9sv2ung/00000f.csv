@@ -1,0 +1,3 @@
+"0","insurance$smoker <- ifelse(insurance$smoker == ""yes"", 1, 0)"
+"0","insurance$sex <- ifelse(insurance$sex == ""male"", 1, 0)"
+"0",""
