@@ -1,8 +1,10 @@
 ---
 title: "Medical Cost Analysis Project"
 author: "Orator Murambiwa"
-output: html_document
 date: "2025-11-16"
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
